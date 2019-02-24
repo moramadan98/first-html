@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+    <!-- mohamed ramadan -->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Operation System </title>
+        <style>
+            body {margin:0; padding:0; font-family: arial, tahoma }
+            
+            .header
+            {
+                background:#333;
+                color: #fff;
+                font-size: #20px;
+                text-align: center;
+                padding: 20px;
+                
+            }
+            .nave
+            {
+                background: #ddd;
+                color: #676767;
+                text-align: center;
+            }
+            ul {list-style: none;margin:0; padding:0;}
+            ul li {display: inline-block; padding: 10px;}
+        </style>
+        
+    </head>
+    <body background ="https://i.ytimg.com/vi/7dkrwPrmH-Y/maxresdefault.jpg">
+        <div class="header">Operating System</div>
+        <div class="nave">
+            <ul>
+                <li><a href="https://www.apple.com/lae/macos/mojave/"> macOS</a></li>
+                <li><a href="https://www.linux.org/">Linux</a></li>
+                <li><a href="https://www.microsoft.com/en-us/windows" target="_blank">Microsoft Windows</a></li>
+            </ul>
+        </div>
+        <hr>
+        <p> An<b> operating system (OS) </b>is system software that manages computer hardware and software resources and provides common services for computer programs.
+            Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, printing, and other resources.
+            For hardware functions such as input and output and memory allocation, the operating system acts as an intermediary between programs and the computer hardware,
+            although the application code is usually executed directly by the hardware and frequently makes system calls to an OS function or is interrupted by it.
+            Operating systems are found on many devices that contain a computer – from cellular phones and <del>video game</del> consoles to web servers and supercomputers.
+            The dominant desktop operating system is<i> Microsoft Windows</i> with a market share of around 82.74%. macOS by Apple Inc. is in second place (13.23%), and the varieties of Linux are collectively in third place (1.57%).
+            In the mobile (smartphone and tablet combined) sector, use in 2017 is up to 70% of Google's Android and according to third quarter 2016 data, Android on smartphones is dominant with 87.5 percent and a growth rate 10.3 percent per year,
+            followed by <ins>Apple's iOS </ins> with 12.1 percent and a per year decrease in market share of 5.2 percent, while other operating systems amount to just 0.3 percent. <mark>Linux</mark> distributions are dominant in the server and supercomputing sectors.
+            <q> Other specialized classes of operating systems, such as embedded and real-time systems, exist for many applications.</q>
+        </p>
+        
+        <br>
+        
+        <ol type="I">
+            <h2>Exambles</h2>
+            <li>Unix and Unix-like operating systems</li>
+            <li>BSD and its descendants</li>
+            <li>macOS</li>
+            <li>Linux</li>
+             <li>Microsoft Windows</li>
+        </ol>
+        
+        <br>
+        
+        <ol><h2>Types of operating systems</h2>
+            <li>Single- and multi-tasking</li>
+            <li>Single- and multi-user</li>
+            <li>Distributed</li>
+            <li>Templated</li>
+            <li>Embedded</li>
+            <li>Real-time</li>
+            <li>Library</li>
+        </ol>
+       
+    </body>
+</html>    
